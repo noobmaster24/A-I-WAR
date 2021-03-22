@@ -1,6 +1,6 @@
 # A--I WAR
 
-## Video Demo: https://www.youtube.com/watch?v=CLrQPF6p2Xk&t=10s
+#### Video Demo: https://www.youtube.com/watch?v=CLrQPF6p2Xk&t=10s
 
 # Description:
 
@@ -36,5 +36,3 @@
     The sounds file inclues the Knight Rider theme, paddle hits, scores, wall hits and most important Copytron.
     An A.I voice that I have create myself.
     There's also another file named Copytron that has codes and fonts to the game.
-    
-    
