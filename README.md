@@ -8,8 +8,8 @@
     As well as The Knightrider theme in the background. 
     The object of the game is to defeat an evil computer named Copytron. 
     An A.I made by Dwight K. Schrute (from The Office).
-    
     You must defeat Copytron by playing a game of pong. 
+    
     If you lose, Copytron takes over The World! 
     But if you win, you successfully saved the human race! 
     You can start by picking one out of 3 levels that you can choose to play against Copytron. (EASY, HARD, IMPOSSIBLE)
@@ -35,4 +35,4 @@
     Also, it would be quite dull and unpleasent if there were no sounds included in the game.
     The sounds file inclues the Knight Rider theme, paddle hits, scores, wall hits and most important Copytron.
     An A.I voice that I have create myself.
-    There's also another file named Copytron that has codes and fonts to the game.
+    There's also another file named Copytron that has codes and fonts to the game
