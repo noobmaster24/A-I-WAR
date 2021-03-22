@@ -1,7 +1,6 @@
- A--I WAR
-    Video Demo: https://www.youtube.com/watch?v=CLrQPF6p2Xk&t=10s
-    
-    Description:
+# A--I WAR
+#### Video Demo: https://www.youtube.com/watch?v=CLrQPF6p2Xk&t=10s
+#### Description:
 
     A retro game of Pong mix with a retro famous movie, named War games. 
     As well as The Knightrider theme in the background. 
