@@ -12,14 +12,14 @@ open in a software called LOVE 2D .
 
 ## Playing with A-I WAR
 By executing the A-I WAR game, put all the files(list below) into on big file and then drag the file into the app call LOVE 2D:
-- [] Sounds
-- [] Ball.lua
-- [] class.lua
-- [] Copytron.lua
-- [] font.ttf
-- [] main.lua
-- [] Paddle.lua
-- [] Push.lua
+- Sounds
+-  Ball.lua
+-  class.lua
+-  Copytron.lua
+-  font.ttf
+-  main.lua
+- Paddle.lua
+-  Push.lua
 
 A-I WAR version 1.0
 Hi, I am Talisa and this is my version of Pong with some intergrations made especially for you with love.
